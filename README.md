@@ -1,5 +1,5 @@
 # SMDExporterC4D
-A Valve SMD exporter for Cinema 4D R16-R23
+A basic Valve SMD exporter for Cinema 4D R16-R23
 
 ## Usage
 1. Download the `.py` file to your Cinema 4D's scripts folder (`%APPDATA%\MAXON\<Cinema 4D folder>\library\scripts`)
