@@ -12,7 +12,7 @@ A basic Valve SMD exporter for Cinema 4D R16-R23
 
 ## Options
 ### Selected Objects
-Considers only selected objects. By default, the script only considers top-level objects
+Considers only selected objects. By default, the script only considers top-level objects.
 
 ### Separate Meshes
 Exports each mesh as a separate `.smd` file.
